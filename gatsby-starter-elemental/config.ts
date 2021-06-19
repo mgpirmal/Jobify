@@ -46,17 +46,12 @@ const siteMetadata = {
         {
             name: "Facebook",
             icon: "/images/Facebook.svg",
-            url: "#",
-        },
-        {
-            name: "Twitter",
-            icon: "/images/Twitter.svg",
-            url: "#",
+            url: "https://www.facebook.com/matthew.pirmal",
         },
         {
             name: "Instagram",
             icon: "/images/Instagram.svg",
-            url: "#",
+            url: "https://www.instagram.com/matthewpirmal/",
         },
        
     ],
