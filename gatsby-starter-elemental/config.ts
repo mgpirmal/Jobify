@@ -5,7 +5,7 @@ const siteMetadata = {
     logo: `/images/mattlogo5.png`,
     icon: `/images/mattlogo5.png`,
     titleImage: `/images/pixel.jpg`,
-    ogImage: `/images/wall.png`,
+    ogImage: `/images/Indexme.jpg`,
     twoColumnWall: true,
     cookiePolicy: true,
     introTag: `Full Stack Web Developer | MERN Stack`,
